@@ -16,7 +16,7 @@ Te recomiendo que entres a: https://github.com/J-Gallo/bootcamp-list/issues para
 Para correr la aplicación en un entorno local:
 
 - Clonar el repositorio
-- `npm install` para instalar las dependencias
+- `npm install` para instalar las dependencias
 - `npm run dev` para correrlo en modo desarrollo
 
 # English
@@ -35,5 +35,5 @@ I strongly recommend you to enter: https://github.com/J-Gallo/bootcamp-list/issu
 ## Development
 
 - Clone the repository
-- Run `npm install` to install the dependencies
+- Run `npm install` to install the dependencies
 - Run `npm run dev` to run the server in development mode
